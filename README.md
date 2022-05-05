@@ -59,7 +59,7 @@ man 3 `getline`
 **Important** make sure you read the man, and the RETURN VALUE section, in order to know when to stop the reading
 Keyword: "end-of-file", or `EOF` (or `Ctrl+D`).
 
-*\#advanced:*Write your own version of `getline`.
+*#advanced:*Write your own version of `getline`.
 
 ~~~~~
 	julien@ubuntu:~/c/shell$ gcc -Wall -Wextra -Werror -pedantic prompt.c -o prompt
